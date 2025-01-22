@@ -154,7 +154,15 @@ ul {
 
 
 
-/* .checkbox-container{
+/* 
+IMPORTANTE!
+TROCAMOS PORQUE O CURSO ATUALIZOU....
+
+CÓDIGO QUE UTILIZARIA.   
+
+
+
+.checkbox-container{
     display: flex;
     gap: 20px;
     box-shadow: #26327F -0.4px 5px 50px 6px ;  PARA ADD NO HOVER ;
